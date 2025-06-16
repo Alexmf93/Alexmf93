@@ -1,4 +1,4 @@
-<img align="left" width="130" height="130" alt="Alejandro Moya" src="images/avatar_personal.png" />
+<img align="left" width="130" height="130" alt="Alejandro Moya" src="./Images/avatar_personal.png" />
 
 
 <h1 align="center">
