@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Hola, soy **Alejandro Moya Fernández**, actualmente estudio un **FP Superior en Desarrollo de Aplicaciones Web** en Granada (España).  
+Hola, soy **Alejandro Moya Fernández**, **Desarrolador Web Junior** en Granada (España).  
 Me apasiona el mundo del **desarrollo web**, la **programación**, y sigo aprendiendo día a día para mejorar mis habilidades técnicas y personales.
 
 - 🎓 Formación en desarrollo web.
